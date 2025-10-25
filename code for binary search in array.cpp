@@ -1,4 +1,4 @@
-#include <iostream>
+#include <bits/stdc++.h>
 #include <algorithm>
 using namespace std;
 
@@ -39,3 +39,4 @@ if(!found)
 cout<<"Element not found"<<endl;
     return 0;
 }
+
